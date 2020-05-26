@@ -16,10 +16,10 @@ Exemplo de uma pizzaria utilizando JavaScript 🍕
 <hr/>
 
 ### Funcionalidades:
-- Permite adicionar e remover pizza no carrinho;
+- Permite adicionar ou remover pizza no carrinho;
 - Permite listar todas as pizzas do carrinho;
 - Permite selecionar o tamanho da pizza;
-- Calcula o valor total da quantidade de pizzas adicionadas do carrinho;
+- Calcula o valor total da quantidade de pizzas adicionadas no carrinho;
 - Layout responsivo.
 
 <hr/>
